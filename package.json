@@ -1,0 +1,26 @@
+{
+  "name": "lifeos_cron_job",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeverseOnGit/LifeOS_cron_job.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeverseOnGit/LifeOS_cron_job/issues"
+  },
+  "homepage": "https://github.com/CodeverseOnGit/LifeOS_cron_job#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "node-cron": "^4.2.1",
+    "simple-git": "^3.33.0"
+  }
+}
