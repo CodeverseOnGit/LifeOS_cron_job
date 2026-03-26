@@ -19,6 +19,7 @@
   "homepage": "https://github.com/CodeverseOnGit/LifeOS_cron_job#readme",
   "dependencies": {
     "crypto": "^1.0.1",
+    "dotenv": "^17.3.1",
     "fs": "^0.0.1-security",
     "node-cron": "^4.2.1",
     "simple-git": "^3.33.0"
