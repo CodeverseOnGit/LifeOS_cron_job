@@ -2,7 +2,6 @@ const cron = require('node-cron');
 const fs = require('fs');
 const crypto = require('crypto');
 const simpleGit = require('simple-git')();
-require('dotenv').config();
 
 const { GITHUB_USER, GITHUB_EMAIL, REPO_URL, JSON_PATH } = process.env;
 
